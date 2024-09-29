@@ -1,2 +1,3 @@
 # POO projects
- Exercicios basicos de POO
+ Exercicios basicos de POO em Java
+ 
